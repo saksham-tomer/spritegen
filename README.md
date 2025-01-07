@@ -4,6 +4,8 @@ Here’s a detailed and professional README for your package:
 
 # 🖼️ WASM Spritesheet Generator
 
+https://github.com/user-attachments/assets/e2223908-5da1-4a08-a62f-05b45cce62c9
+
 [![NPM Version](https://img.shields.io/npm/v/wasm-spritesheet-generator.svg)](https://www.npmjs.com/package/wasm-spritesheet-generator)
 [![License](https://img.shields.io/github/license/saksham-tomer/wasm-spritesheet-generator.svg)](https://github.com/saksham-tomer/spritegen/blob/main/LICENSE)
 
