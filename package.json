@@ -1,7 +1,8 @@
 {
-  "name": "spritesheet_generator",
+  "name": "wasm-spritesheet-generator",
+  "version": "1.0.0",
+  "description": "A high-performance WebAssembly-based spritesheet generator written in Rust.",
   "type": "module",
-  "version": "0.1.0",
   "files": [
     "spritesheet_generator_bg.wasm",
     "spritesheet_generator.js",
