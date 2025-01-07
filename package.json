@@ -1,0 +1,15 @@
+{
+  "name": "spritesheet_generator",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "spritesheet_generator_bg.wasm",
+    "spritesheet_generator.js",
+    "spritesheet_generator.d.ts"
+  ],
+  "main": "spritesheet_generator.js",
+  "types": "spritesheet_generator.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
