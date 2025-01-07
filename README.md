@@ -5,7 +5,7 @@ Here’s a detailed and professional README for your package:
 # 🖼️ WASM Spritesheet Generator
 
 [![NPM Version](https://img.shields.io/npm/v/wasm-spritesheet-generator.svg)](https://www.npmjs.com/package/wasm-spritesheet-generator)
-[![License](https://img.shields.io/github/license/saksham-tomer/wasm-spritesheet-generator.svg)](https://github.com/saksham-tomer/wasm-spritesheet-generator/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/saksham-tomer/wasm-spritesheet-generator.svg)](https://github.com/saksham-tomer/spritegen/blob/main/LICENSE)
 
 **WASM Spritesheet Generator** is a high-performance, WebAssembly-powered utility written in Rust for generating spritesheets and metadata from image arrays. It is ideal for game developers, web developers, or anyone working with animations, textures, or custom graphics pipelines. 
 
