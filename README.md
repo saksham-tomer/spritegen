@@ -1,4 +1,3 @@
-Here’s a detailed and professional README for your package:
 
 ---
 
